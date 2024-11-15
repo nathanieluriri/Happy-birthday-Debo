@@ -12,9 +12,10 @@ if "name" not in st.session_state:
 if "age" not in st.session_state:
     st.session_state.age = ""
 # Input widgets
-
+name = st.text_input("Enter your name:",key="name")
 if st.session_state.name =="":
-    name = st.text_input("Enter your name:",key="name")
+    
+    
     st.session_state.age = st.slider("Select your age:", 1, 100, 12)
 
 
