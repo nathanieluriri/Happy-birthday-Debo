@@ -45,7 +45,7 @@ I pray that in this new year of your life, God will strengthen you in every way 
 You’ll do amaaazzzziiiiinggg things, Debo! I just KNOW it. And I can’t wait to cheer you on as you make those dreams of yours come true. 🙌  
 
 ### Here’s a little prayer for you:  
-*Lord, I thank You for Debo and for the blessing of her life. I pray You will guide her steps in this new age, shower them with Your grace, and grant them peace that surpasses all understanding. Strengthen them, Lord, and let Your favor be upon them in everything she does. Amen.*  
+*Lord, I thank You for Debo and for the blessing of her life. I pray You will guide her steps in this new age, shower her with Your grace, and grant her peace that surpasses all understanding. Strengthen her, Lord, and let Your favor be upon her in everything she does. Amen.*  
 
 Have the **best day everrrrrrrr**, Debo! 🎂🎉 You deserve every bit of happiness and more!
 """)
